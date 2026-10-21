@@ -7,8 +7,6 @@ Deep Learning.
 ## Archivos
 
 - `AirMed_presentacion.pptx`: presentación editable del proyecto.
-- `AirMed_presentacion.pdf`: versión PDF para visualización
-  y entrega académica.
 
 ## Contenido
 
