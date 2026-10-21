@@ -6,7 +6,7 @@ Deep Learning.
 
 ## Archivos
 
-- `AirMed_presentacion.pptx`: presentación editable del proyecto.
+- `AirMed.pptx`: presentación editable del proyecto.
 
 ## Contenido
 
