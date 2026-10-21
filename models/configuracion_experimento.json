@@ -1,0 +1,17 @@
+{
+    "proyecto": "AirMed",
+    "estacion": "MED-PBLQ",
+    "variable_objetivo": "pm25_ug_m3",
+    "frecuencia": "horaria",
+    "longitud_entrada_horas": 168,
+    "horizonte_prediccion_horas": 24,
+    "arquitectura_seleccionada": "GRU",
+    "unidades_gru": 64,
+    "dropout": 0.2,
+    "unidades_dense": 32,
+    "batch_size": 32,
+    "epocas_maximas": 50,
+    "semilla": 42,
+    "escalador": "RobustScaler",
+    "criterio_seleccion": "MAE de validacion"
+}
